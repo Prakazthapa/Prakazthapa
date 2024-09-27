@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Thapa</h1>
-<h3 align="center">A passionate MERN full Stack Developer</h3>
+<h3 align="center">MERN full stack developer | Frontend react developer | Backend node.js developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 
