@@ -4,6 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakazthapa&label=Profile%20views&color=0e75b6&style=flat" alt="prakazthapa" /> </p>
+-  I’m currently working as **Information Technology Officer** 
 
 - 🌱 I’m currently learning **MERN Stack**
 
